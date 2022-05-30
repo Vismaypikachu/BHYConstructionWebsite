@@ -54,6 +54,7 @@ html, body {
 
     font-family: Calibri; 
     font-size: 20px;
+    text-align: center;
 
     /* Use below when centering text in a div*/
     display: flex;
