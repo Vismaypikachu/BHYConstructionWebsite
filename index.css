@@ -47,6 +47,21 @@ html, body {
     font-size: 55px;
 }
 
+.aboutUs{
+    width: 75%;
+    height: 100px;
+
+    color: white;
+
+    font-family: Calibri; 
+    font-size: 20px;
+
+    /* Use below when centering text in a div*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 footer{
     width: 100%;
